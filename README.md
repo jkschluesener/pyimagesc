@@ -1,4 +1,4 @@
-# pyimagesc
+m# pyimagesc
 
 A convenience function for quick display of matrices that are not (even close to) square. This kind of emulates the Matlab style imagesc using matplotlib.
 
@@ -17,7 +17,7 @@ See `doc/generate_previews.py` for the example code generating the below figure:
 Directly from github:
 
 ```bash
-pip install git+https://github.com/jkschluesener/pyimagesc.git@master
+pip install git+https://github.com/jkschluesener/pyimagesc.git@main
 ```
 
 ## Usage
